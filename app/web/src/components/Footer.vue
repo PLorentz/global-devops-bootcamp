@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Pedro Lorentz - Azure CSE Team
+        Pedro Lorentz - CSE LATAM
       </div>
       <div class="col-lg-6">
       </div>
